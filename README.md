@@ -73,7 +73,8 @@ Additionaly, based on the baseline benchmarking, ViT had outperfomred other mode
   <img src="./Images/Swin_transformer.png" alt="Result" width="600"/>
   <figcaption>Figure: Swin Transformer Architecture</figcaption>
 </figure>
-<br>
+
+
 <figure style="text-align: left;">
   <img src="./Images/Vision_transformer.png" alt="Result" width="600"/>
   <figcaption>Figure: Vision Transformer Architecture</figcaption>
